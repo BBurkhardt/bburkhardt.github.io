@@ -3,7 +3,7 @@ layout: single
 permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching"
-author_profile: false
+author_profile: true
 ---
 ## Winter Term 2019/2020
 
