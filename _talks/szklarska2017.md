@@ -11,4 +11,4 @@ location: "Szklarska Poręba, Poland"
 location_url: "http://www.szrenica.pl/en/schronisko.php"
 ---
 
-<a href="/files/Szklarska2017_Grounding_Push_Pull_BenBurkhardt.pdf">[Poster]</a>
+<a href="/files/2017_Szklarska_Grounding_Push_Pull_BenBurkhardt.pdf">[Poster]</a>
